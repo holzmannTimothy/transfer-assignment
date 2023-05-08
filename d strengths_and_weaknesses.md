@@ -4,6 +4,7 @@ very popular and thus enables collaboration
 
 
 # Weaknesses
+hard to learn and can become quiet complicate
 
 
 
